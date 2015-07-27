@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<div id="bottom">
+	<div id="bottom_con">
+		<table width="962" style="color:#fff;margin-top:10px;">
+			<tr>
+				<td width="320">蓝盾乐庚研发</td>
+				<td style="text-align:center" width="320">
+					<p style="padding-bottom:5px;">中小学生应急管理系统  版权所有</p>
+					<p>Copyright 2013-2017</p>
+				</td>
+				<td style="text-align:right">
+					技术支持:<a href="mailto:support_bdlogan@chinabluedon.cn" class="main_nav_link">support_bdlogan@chinabluedon.cn </a>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
